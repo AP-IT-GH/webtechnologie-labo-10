@@ -8,3 +8,7 @@ Voor de tegels voorzie je:
 - Bekijk [hier](https://support.microsoft.com/en-us/windows/windows-keyboard-tips-and-tricks-588e0b72-0fff-6d3f-aeee-6e5116097942#:~:text=During%20text%20entry%2C%20press%20Windows,from%20GIFs%20and%20Kaomoji%20too!) hoe je het emoji keyboard kunt openen op Windows.
 - Bekijk [hier](https://devtoolstips.org/tips/en/edit-shadow/) hoe je de ingebouwde box-shadow generator van Google Chrome gebruikt.
 
+
+## Verwacht resultaat
+
+Bekijk het filmpje: [opgave.mp4](./opgave.mp4)
