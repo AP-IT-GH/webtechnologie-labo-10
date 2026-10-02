@@ -4,7 +4,7 @@
 - Volg de gegeven bestandenstructuur.
 - Controleer het resultaat van je oefening met de Live server extensie.
 - Werk de onderstaande oefeningen van boven naar beneden af.
-- Gebruik telkens [The New CSS Reset](https://elad2412.github.io/the-new-css-reset/) of het meegeleverde `reset.css`.
+- Gebruik telkens [modern-normalize](https://github.com/sindresorhus/modern-normalize) of het meegeleverde `normalize.css`.
 - Bekijk de filmpjes van elke oefening en probeer ze na te bouwen met HTML en CSS.
 
 ## Oefeningen

@@ -9,7 +9,7 @@ Je maakt een eenvoudige webpagina met een HTML-bestand en een apart CSS-bestand.
 * Voeg drie knoppen toe binnen de `<body>`-sectie en geef ze een unieke `id`:
 
 **CSS bestand aanmaken**
-* Denk eraan het resetscript toe te passen. Zet het op de juiste plaats en verwijs ernaar in je HTML-pagina.
+* Denk eraan `normalize.css` toe te passen. Zet het op de juiste plaats en verwijs ernaar in je HTML-pagina.
 * Voeg een leeg bestand `style.css` toe in de css map en link deze aan de html pagina.
 * Definieer de basisstijl voor de knoppen. Let op de `transition`: die zet je op de knop zelf en niet op de `:hover`-regel, zodat de overgang in beide richtingen werkt.
 
