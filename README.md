@@ -12,5 +12,6 @@
 1. [stretch](./stretch)
 2. [fly-in](./fly-in)
 3. [hover](./hover)
-4. [point](./point/README.md)
-5. [form](./form/README.md)
+4. [buttons](./buttons/README.md)
+5. [point](./point/README.md)
+6. [form](./form/README.md)
