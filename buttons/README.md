@@ -5,7 +5,7 @@ Je maakt een eenvoudige webpagina met een HTML-bestand en een apart CSS-bestand.
 **HTML Pagina aanmaken**
 
 * Voeg de basisstructuur van een HTML-pagina toe met een `<head>` en `<body>`-sectie.
-* Voeg een titel toe aan de pagina: "Interactieve knoppen".
+* Voeg een titel toe aan de pagina: "Interactieve buttons".
 * Voeg drie knoppen toe binnen de `<body>`-sectie en geef ze een unieke `id`:
 
 **CSS bestand aanmaken**
@@ -16,11 +16,14 @@ Je maakt een eenvoudige webpagina met een HTML-bestand en een apart CSS-bestand.
 ```css
 button {
     padding: 10px 20px;
+    margin: 5px;
     font-size: 16px;
-    border: 2px solid #333;
-    background-color: #f0f0f0;
-    color: #333;
+    border-radius: 5px;
+    background-color: #3498db;
+    color: #fff;
     cursor: pointer;
+    /* onzichtbare rand zorgt dat de knoppen niet verspringen door het hover-effect hieronder */
+    border: 2px solid rgba(0, 0, 0, 0);
     transition: all 0.3s ease;
 }
 ```
