@@ -1,6 +1,6 @@
 # buttons
 
-Je maakt een eenvoudige webpagina met een HTML-bestand en een apart CSS-bestand. Je past stijlen toe op drie knoppen zodat ze op verschillende manieren reageren op interactie. Elke verandering verloopt vloeiend, want de knoppen krijgen een [transitie](https://webtechnologie.apload.be/css/animaties/transities).
+Je maakt een eenvoudige webpagina met een HTML-bestand en een apart CSS-bestand. Je past stijlen toe op drie knoppen zodat ze op verschillende manieren reageren op interactie. Elke verandering verloopt vloeiend, want de knoppen krijgen een [transitie](https://ap-it-gh.github.io/webtechnologie-docusaurus/css/animaties/transities).
 
 **HTML Pagina aanmaken**
 
