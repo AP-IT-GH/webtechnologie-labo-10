@@ -9,7 +9,7 @@ Bouw de tegels uit het filmpje na met HTML en CSS.
   - Gebruik de ingebouwde box-shadow editor van je browser devtools om een soortgelijke box-shadow te genereren.
   - Zorg dat je geen css dupliceert. Hergebruik css classes.
 * Wanneer de gebruiker met de muis over een tegel gaat, schuift die tegel op in de richting waar de emoji naar wijst. Gebruik hiervoor de `:hover` pseudo-class met `transform: translateX(...)` of `transform: translateY(...)`.
-* De verschuiving verloopt vloeiend. Gebruik hiervoor [transition](https://ap-it-gh.github.io/webtechnologie-docusaurus/css/animaties/transities) en let op: de transitie zet je op de tegel zelf, niet op de `:hover`-regel, zodat ze in beide richtingen werkt.
+* De verschuiving verloopt vloeiend. Gebruik hiervoor [transition](https://webtechnologie.programmeren-ap.be/css/animaties/transities) en let op: de transitie zet je op de tegel zelf, niet op de `:hover`-regel, zodat ze in beide richtingen werkt.
 
 ## Tips
 

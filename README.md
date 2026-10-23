@@ -1,12 +1,12 @@
 # Labo 10
 
-- Zorg dat Codium en alle nodige extensies zijn geïnstalleerd, zoals beschreven in [Tooling & setup](https://ap-it-gh.github.io/webtechnologie-docusaurus/tooling).
+- Zorg dat Codium en alle nodige extensies zijn geïnstalleerd, zoals beschreven in [Tooling & setup](https://webtechnologie.programmeren-ap.be/tooling).
 - Volg de gegeven bestandenstructuur.
 - Controleer het resultaat van je oefening met de Live server extensie.
 - Werk de onderstaande oefeningen van boven naar beneden af.
 - Gebruik telkens [modern-normalize](https://github.com/sindresorhus/modern-normalize) of het meegeleverde `normalize.css`.
 - Bekijk de filmpjes van elke oefening en probeer ze na te bouwen met HTML en CSS.
-- De oefeningen van dit labo gebruiken veel `transform`: lees [Transforms](https://ap-it-gh.github.io/webtechnologie-docusaurus/css/animaties/transforms) met de interactieve voorbeelden erbij.
+- De oefeningen van dit labo gebruiken veel `transform`: lees [Transforms](https://webtechnologie.programmeren-ap.be/css/animaties/transforms) met de interactieve voorbeelden erbij.
 
 ## Bestandenstructuur
 
